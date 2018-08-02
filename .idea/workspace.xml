@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="547a8dfa-b4b0-41ad-8dc2-db328ebbf1c6" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/springannotion.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/shilibo/MainTest.java" afterDir="false" />
@@ -20,7 +14,6 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/com/shilibo/bean/Dog.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/shilibo/bean/MyBeanPostprocessor.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/shilibo/bean/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/shilibo/bean/RainBow.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/shilibo/bean/Red.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/shilibo/bean/Yellow.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/shilibo/condition/LinuxCondition.java" afterDir="false" />
@@ -60,6 +53,7 @@
       <change afterPath="$PROJECT_DIR$/target/classes/com/shilibo/dao/BookDao.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/test-classes/com/shilibo/test/IOCTest.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/test-classes/com/shilibo/test/IOCTest_LifeCycle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -291,8 +285,8 @@
       <file leaf-file-name="RainBow.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/shilibo/bean/RainBow.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+            <state relative-caret-position="92">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -435,7 +429,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="15" />
     <option name="width" value="1940" />
     <option name="height" value="1050" />
@@ -454,6 +448,22 @@
             <path>
               <item name="springannotion" type="b2602c69:ProjectViewProjectNode" />
               <item name="springannotion" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springannotion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springannotion" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springannotion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springannotion" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springannotion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springannotion" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -675,8 +685,23 @@
       <workItem from="1532483989561" duration="15606000" />
       <workItem from="1532510950806" duration="705000" />
       <workItem from="1532572879014" duration="4063000" />
-      <workItem from="1533197183868" duration="900000" />
+      <workItem from="1533197183868" duration="2498000" />
     </task>
+    <task id="LOCAL-00001" summary="spring注解">
+      <created>1533198265800</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1533198265800</updated>
+    </task>
+    <task id="LOCAL-00002" summary="spring注解">
+      <created>1533199000296</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1533199000296</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -712,7 +737,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27855000" />
+    <option name="totallyTimeSpent" value="29453000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -724,7 +749,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32905984" />
@@ -794,6 +820,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="spring注解" />
+    <option name="LAST_COMMIT_MESSAGE" value="spring注解" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/com/shilibo/bean/Red.java">
@@ -1228,8 +1258,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/shilibo/bean/RainBow.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        <state relative-caret-position="92">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
